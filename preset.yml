@@ -1,0 +1,16 @@
+schema_version: "1.0"
+preset:
+  id: "cchiele-constitution"
+  name: "CChiele Constitution"
+  version: "1.0.0"
+  description: "Constitution corporativa padrão da CCHIELE"
+  author: "Plataforma CCHIELE"
+  repository: "https://github.com/cchiele/cchiele-sdd-preset"
+  license: "MIT"
+requires:
+  speckit_version: ">=0.12.0"
+provides:
+  templates:
+    - type: "template"
+      name: "constitution-template"
+      file: "templates/constitution-template.md"
