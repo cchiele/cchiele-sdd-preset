@@ -2,7 +2,7 @@ schema_version: "1.0"
 preset:
   id: "cchiele-constitution"
   name: "CChiele Constitution"
-  version: "1.0.0"
+  version: "1.0.6"
   description: "Constitution corporativa padrão da CCHIELE"
   author: "Plataforma CCHIELE"
   repository: "https://github.com/cchiele/cchiele-sdd-preset"
